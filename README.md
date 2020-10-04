@@ -11,6 +11,8 @@ This project is trained to detect 5 different scenarios:
     
 ![GitHub Logo](/images/model.jpeg)
 
+[Project Report](report.pdf)
+
 
 
 
